@@ -43,12 +43,28 @@
 
 ---
 
-📂 Projects
+## 📌 Featured Projects  
 
-• Customer Segmentation using Clustering  
-• Time Series Forecasting (ARIMA/SARIMA)  
-• Object Detection using Azure  
+🔹 **Cricket Win Prediction**  
+- Developed ML models to predict match outcomes using historical cricket data.  
+- Applied Logistic Regression, Decision Trees, and Random Forest models.  
+- Identified key performance factors influencing match results.  
+- Achieved ~80–85% prediction accuracy.  
 
+🔹 **Customer Segmentation using Clustering & PCA**  
+- Performed customer segmentation using K-Means clustering and PCA.  
+- Reduced dimensionality and identified meaningful customer groups.  
+- Enabled targeted marketing strategies based on behavioral insights.  
+
+🔹 **Time Series Forecasting**  
+- Built ARIMA and SARIMA models for forecasting time-based data.  
+- Generated 12-month predictions with confidence intervals.  
+- Improved planning and decision-making using trend analysis.  
+
+🔹 **AI Object Detection & Conversational System**  
+- Built object detection pipeline using Azure Custom Vision.  
+- Integrated NLP using Azure LUIS and QnA services.  
+- Enabled automated video analysis and interactive querying system.
 ---
 
 📫 Connect with me

@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Poonam Tekwani
 
-<!--
-**poonamtekwani/poonamtekwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst | Python | SQL | Machine Learning | Tableau
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+
+🚀 Passionate about data-driven decision making  
+💡 Hands-on experience in Data Analytics & Machine Learning  
+
+📊 Skilled in:  
+🔹 Python | SQL | Tableau | Excel | Data Modeling | AI/ML  
+
+⭐ Built models using:  
+🎯 Random Forest | XGBoost | Logistic Regression | KNN | ARIMA | SARIMA 
+
+📈 Created interactive dashboards in Tableau and applied ML models to solve real-world problems
+---
+
+🛠️ Skills
+
+• Python | SQL | Tableau | Excel  
+• Pandas | NumPy | Scikit-learn  
+• EDA | Machine Learning | Time Series Forecasting  
+
+---
+
+📂 Projects
+
+• Customer Segmentation using Clustering  
+• Time Series Forecasting (ARIMA/SARIMA)  
+• Object Detection using Azure  
+
+---
+
+📫 Connect with me
+
+LinkedIn: https://linkedin.com/in/poonam-tekwani10

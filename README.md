@@ -51,10 +51,10 @@
 - Performed EDA, SMOTE, and feature engineering  
 - Generated data-driven insights for team strategy   
 
-🔹 **Customer Segmentation using Clustering & PCA**  
-- Performed customer segmentation using K-Means clustering and PCA.  
-- Reduced dimensionality and identified meaningful customer groups.  
-- Enabled targeted marketing strategies based on behavioral insights.  
+🔹[Customer Segmentation & Ad Performance Analysis](https://github.com/poonamtekwani/Customer-Segmentation)  
+- Built clustering models (K-Means, Hierarchical) to segment ad performance  
+- Applied PCA to reduce dimensionality (60 → 5 features)  
+- Identified high-value segments to optimize marketing ROI and targeting  
 
 🔹 **Time Series Forecasting**  
 - Built ARIMA and SARIMA models for forecasting time-based data.  

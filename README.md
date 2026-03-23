@@ -67,7 +67,7 @@
 - Achieved high accuracy and analyzed object movement across frames
 
 
-  ## 🎓 Education
+## 🎓 Education
   
 **Master of Data Science**  
 Deakin University, Australia  

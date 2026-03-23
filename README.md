@@ -65,7 +65,21 @@
 - Built object detection system using Azure Computer Vision & Custom Vision  
 - Implemented video processing and tracking using OpenCV  
 - Achieved high accuracy and analyzed object movement across frames
+
+
+  ## 🎓 Education
   
+**Master of Data Science**  
+Deakin University, Australia  
+Oct 2024 – Oct 2025  
+
+**Post Graduate Program in Data Science & Business Analytics**  
+Texas McCombs School of Business, USA  
+July 2023 – July 2024  
+
+**Bachelor of Computer Applications (BCA)**  
+Sophia Girls College, Ajmer, India  
+2018 – 2021  
  
 📫 Connect with me
 

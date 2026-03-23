@@ -56,7 +56,7 @@
 - Applied PCA to reduce dimensionality (60 → 5 features)  
 - Identified high-value segments to optimize marketing ROI and targeting  
 
-🔹[Wine Sales Forecasting](https://github.com/poonamtekwani/Wine-Sales-Forecasting)  
+🔹[Wine Sales Forecasting](https://github.com/poonamtekwani/Time-Series-Forecasting)  
 - Built ARIMA & SARIMA models for demand forecasting  
 - Analyzed seasonality and trends for Rosé & Sparkling wines  
 - Generated 12-month forecasts with business insights

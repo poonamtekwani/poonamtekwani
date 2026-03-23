@@ -64,8 +64,11 @@
  🔹[AI Object Detection & Tracking System](https://github.com/poonamtekwani/AI-Object-Detection-Tracking-System)  
 - Built object detection system using Azure Computer Vision & Custom Vision  
 - Implemented video processing and tracking using OpenCV  
-- Achieved high accuracy and analyzed object movement across frames  
-
+- Achieved high accuracy and analyzed object movement across frames
+- 
+ ## 📚 Additional Context
+- Explored real-world applications of Computer Vision including retail (Amazon Go), healthcare, and autonomous systems  
+- Studied Azure Computer Vision capabilities such as OCR, object detection, and spatial analysis  
 📫 Connect with me
 
 LinkedIn: https://linkedin.com/in/poonam-tekwani10

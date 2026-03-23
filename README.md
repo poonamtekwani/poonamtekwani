@@ -56,11 +56,12 @@
 - Applied PCA to reduce dimensionality (60 → 5 features)  
 - Identified high-value segments to optimize marketing ROI and targeting  
 
-🔹 **Time Series Forecasting**  
-- Built ARIMA and SARIMA models for forecasting time-based data.  
-- Generated 12-month predictions with confidence intervals.  
-- Improved planning and decision-making using trend analysis.  
+🔹[Wine Sales Forecasting](https://github.com/poonamtekwani/Wine-Sales-Forecasting)  
+- Built ARIMA & SARIMA models for demand forecasting  
+- Analyzed seasonality and trends for Rosé & Sparkling wines  
+- Generated 12-month forecasts with business insights
 
+  
 🔹 **AI Object Detection & Conversational System**  
 - Built object detection pipeline using Azure Custom Vision.  
 - Integrated NLP using Azure LUIS and QnA services.  

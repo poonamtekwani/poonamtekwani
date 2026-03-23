@@ -61,12 +61,10 @@
 - Analyzed seasonality and trends for Rosé & Sparkling wines  
 - Generated 12-month forecasts with business insights
 
-  
-🔹 **AI Object Detection & Conversational System**  
-- Built object detection pipeline using Azure Custom Vision.  
-- Integrated NLP using Azure LUIS and QnA services.  
-- Enabled automated video analysis and interactive querying system.
----
+ 🔹[AI Object Detection & Tracking System](https://github.com/poonamtekwani/AI-Object-Detection-Tracking-System)  
+- Built object detection system using Azure Computer Vision & Custom Vision  
+- Implemented video processing and tracking using OpenCV  
+- Achieved high accuracy and analyzed object movement across frames  
 
 📫 Connect with me
 

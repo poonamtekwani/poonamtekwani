@@ -45,11 +45,11 @@
 
 ## 📌 Featured Projects  
 
-🔹 **Cricket Win Prediction**  
-- Developed ML models to predict match outcomes using historical cricket data.  
-- Applied Logistic Regression, Decision Trees, and Random Forest models.  
-- Identified key performance factors influencing match results.  
-- Achieved ~80–85% prediction accuracy.  
+🔹[Cricket Win Prediction](https://github.com/poonamtekwani/Cricket-Win-Prediction)  
+- Built ML models (Logistic Regression, Decision Tree, Random Forest)  
+- Achieved ~94% accuracy using Random Forest  
+- Performed EDA, SMOTE, and feature engineering  
+- Generated data-driven insights for team strategy   
 
 🔹 **Customer Segmentation using Clustering & PCA**  
 - Performed customer segmentation using K-Means clustering and PCA.  
